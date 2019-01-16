@@ -41,11 +41,13 @@ Here is a Markdown link to [google](https://google.com), and a literal <http://g
 \* Unordered list can use asterisks
 \- Or minuses
 \+ Or pluses
+  \+next
 
 **Example**
 * Unordered list can use asterisks
 - Or minuses
 + Or pluses
+  + Under
 ----
 
 **Syntax**
@@ -57,6 +59,7 @@ Here is a Markdown link to [google](https://google.com), and a literal <http://g
 1. one
 2. two
 3. tree 
+   1. Under
 
 ----
 
@@ -72,7 +75,16 @@ Inline `code` has `back-ticks around` it.
 
 ----
 
+Task Lists
 
+\- [x] Completed task'
+\- [ ] Incomplete task
+  \- [ ] Sub-task 1
+\- [x] Sub-task 2
+\- [ ] Sub-task 3
 
-
-
+- [x] Completed task
+- [ ] Incomplete task
+  - [ ] Sub-task 1
+  - [x] Sub-task 2
+  - [ ] Sub-task 3
