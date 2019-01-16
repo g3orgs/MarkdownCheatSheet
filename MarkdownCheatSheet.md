@@ -1,4 +1,4 @@
-#Markdown Cheat Sheet 
+#Markdown Simple Cheat Sheet 
 **Syntax**
 \# Header #
 **Example** 
@@ -29,8 +29,50 @@
 #### Header 5 ####
 ----
 
+**Syntax**
+Here is a Markdown link to \[google](https://google.com), and a literal \<http://google.com>. 
+
+**Example**
+Here is a Markdown link to [google](https://google.com), and a literal <http://google.com>. 
+
+----
+
+**Syntax**
+\* Unordered list can use asterisks
+\- Or minuses
+\+ Or pluses
+
+**Example**
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+----
+
+**Syntax**
+1. one
+2. two
+3. tree 
+
+**Example**
+1. one
+2. two
+3. tree 
+
+----
 
 
-## Table ##
+**Syntax**
+Inline-style: 
+\![alt text]\(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+**Syntax**
+Inline \`code\` has \`back-ticks around\` it.
+**Example**
+Inline `code` has `back-ticks around` it.
+
+----
+
+
+
 
 
