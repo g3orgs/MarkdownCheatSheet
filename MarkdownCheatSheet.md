@@ -1,40 +1,36 @@
 #Markdown Cheat Sheet 
 **Syntax**
-
 \# Header #
-
 **Example** 
 # Header 1 #
-
 ----
+
 **Syntax**
-\## Header ##
+\## Header 2 ##
 **Example**
-## Header ##
-
-
-Example 
-# Header 1 #
-****
+## Header 2 ##
+----
 
 **Syntax**
-## Header 2 ##
-~~~
-Example
-## Header 2 ##
+\### Header 3 ###
+**Example**
+### Header 3 ###
+----
 
-
-
-
-### Header 3 ###             
+**Syntax**
+\#### Header 4 ####
+**Example**
 #### Header 4 ####
-##### Header 5 #####
+----
 
-(Hashes on right are optional)
+**Syntax**
+\#### Header 5 ####
+**Example**
+#### Header 5 ####
+----
 
-| Syntax | Example | 
-| ------ | ------ | 
-|  ~~~ # Header 1 # ~~~  | #Header 1# |  
-|  Cell  |  Cell  |   
 
-2.Test
+
+## Table ##
+
+
