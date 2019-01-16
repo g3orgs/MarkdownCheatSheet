@@ -1,13 +1,23 @@
-Markdown Cheat Sheet 
+#Markdown Cheat Sheet 
+**Syntax**
 
-~~~
+\# Header #
+
+**Example** 
 # Header 1 #
-~~~
+
+----
+**Syntax**
+\## Header ##
+**Example**
+## Header ##
+
+
 Example 
 # Header 1 #
 ****
 
-
+**Syntax**
 ## Header 2 ##
 ~~~
 Example
